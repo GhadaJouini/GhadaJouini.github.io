@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "As a Python developer, I'm pretty keen on Web Frameworks. I'm a problem-solver and Python as a programming language is a tool to so many options."
+  url: "https://www.python.org/"
+
+- name: Machine Learning
+  logo: "/images/sections/skills/ml.jpg"
+  summary: "Applied supervised, unsupervised and association rules techniques on data."
+  url: "https://www.ibm.com/cloud/learn/machine-learning"
+
+- name: Deep Learning
+  logo: "/images/sections/skills/dl.jpg"
+  summary: "Worked on Computer Vision and Natural Language Processing(NLP) projects. Applied NLP techniques on a Entity Recognition project. Used mostly Tensorflow library but I recently explored Pytorch within a Kaggle competition."
+
+- name: Data Analytics
+  logo: "/images/sections/skills/da.png"
+  summary: "Collecting and interpreting data. Analysing and reporting results.
+Identifying patterns and trends in data sets."
+
+- name: Flask API
+  logo: "/images/sections/skills/flask.png"
+  summary: "Used it as a web framework to build web services in Python and deploy applications."
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."

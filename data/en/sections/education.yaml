@@ -1,0 +1,25 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Computer Science Engineering majoring in Data Science
+  icon: fa-university
+  timeframe: 2017-2020
+  institution:
+    name: ESPRIT School of Engineering
+    url: "#"
+  
+- name: Preparatory Institute for Engineering 
+  icon: fa-graduation-cap
+  timeframe: 2014-2017
+  institution:
+    name: Faculty of Sciences of Tunis | Pre-engineering cycle
+    url: "#"

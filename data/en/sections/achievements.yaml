@@ -1,0 +1,19 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: AI Startup Competition 
+  image: /images/sections/achievements/image1.jpeg
+  summary: I took part in AI Hack Tunisia 2019 – Africa and the Middle East’s largest AI hackathon to date – hosted from 20-22nd September. I've made it with my partner dataSparkles to the second round of the Startup competition, we've gained a new experience from this one and I'm sure one day we're gonna win!
+  
+- title: My Graduation Day
+  image: /images/sections/achievements/Graduation.jpg
+  summary: I graduated from ESPRIT as a data science Engineer with honours of the jury. I got the chance to be mentored by amazing individuals who believed in me and made me think differently. I enjoyed every minute of personal hard work, group projects, and on-campus activities.
